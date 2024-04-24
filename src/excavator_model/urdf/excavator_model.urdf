@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<robot name="Excavator_Model" xmlns:xacro="http://ros.org/wiki/xacro">
+<robot name="Excavator_Model">
   <link name="base_tread">
     <visual>
       <geometry>

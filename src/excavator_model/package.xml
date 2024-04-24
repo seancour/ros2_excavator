@@ -4,7 +4,7 @@
   <name>excavator_model</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="christo12aluckal@gmail.com">sim_user</maintainer>
+  <maintainer email="seancour@gmail.com">sim_user</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>

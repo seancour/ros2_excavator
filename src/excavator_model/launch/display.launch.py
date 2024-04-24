@@ -13,11 +13,11 @@ def generate_launch_description():
     bumperbot_description_dir = get_package_share_directory("excavator_model")
 
     model_arg = DeclareLaunchArgument(name="model", default_value=os.path.join(
-                                        bumperbot_description_dir, "urdf", "excavator_model.urdf.xacro"
+                                        bumperbot_description_dir, "urdf", "excavator_model.urdf"
                                         ),
                                       description="Absolute path to robot urdf file")
 
-    robot_description = ParameterValue(Command(["xacro ", LaunchConfiguration("model")]),
+    robot_description = ParameterValue(Command([LaunchConfiguration("model")]),
                                        value_type=str)
 
     robot_state_publisher_node = Node(
