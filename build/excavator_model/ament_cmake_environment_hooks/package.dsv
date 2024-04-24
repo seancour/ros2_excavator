@@ -1,0 +1,4 @@
+source;share/excavator_model/local_setup.bash
+source;share/excavator_model/local_setup.dsv
+source;share/excavator_model/local_setup.sh
+source;share/excavator_model/local_setup.zsh

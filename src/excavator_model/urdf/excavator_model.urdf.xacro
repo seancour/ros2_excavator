@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<robot name="Excavator_Model" xmlns:xacro="http://ros.org/wiki/xacro">
+  <link name="base_tread">
+    <visual>
+      <geometry>
+        <mesh filename="package://excavator_model/meshes/Excavator_Tread.STL" />
+      </geometry>
+    </visual>
+  </link>
+</robot>

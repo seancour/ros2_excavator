@@ -1,0 +1,20 @@
+[1.126s] Invoking command in '/home/sim_user/ros2_excavator/src/excavator_model': PYTHONPATH=/home/sim_user/ros2_excavator/build/excavator_model/prefix_override:/home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/excavator_model build --build-base /home/sim_user/ros2_excavator/build/excavator_model/build install --record /home/sim_user/ros2_excavator/build/excavator_model/install.log --single-version-externally-managed install_data
+[1.292s] running egg_info
+[1.292s] writing ../../build/excavator_model/excavator_model.egg-info/PKG-INFO
+[1.293s] writing dependency_links to ../../build/excavator_model/excavator_model.egg-info/dependency_links.txt
+[1.293s] writing entry points to ../../build/excavator_model/excavator_model.egg-info/entry_points.txt
+[1.293s] writing requirements to ../../build/excavator_model/excavator_model.egg-info/requires.txt
+[1.293s] writing top-level names to ../../build/excavator_model/excavator_model.egg-info/top_level.txt
+[1.293s] reading manifest file '../../build/excavator_model/excavator_model.egg-info/SOURCES.txt'
+[1.293s] writing manifest file '../../build/excavator_model/excavator_model.egg-info/SOURCES.txt'
+[1.293s] running build
+[1.293s] running build_py
+[1.294s] running install
+[1.294s] running install_lib
+[1.295s] running install_data
+[1.295s] running install_egg_info
+[1.296s] removing '/home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages/excavator_model-0.0.0-py3.10.egg-info' (and everything under it)
+[1.296s] Copying ../../build/excavator_model/excavator_model.egg-info to /home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages/excavator_model-0.0.0-py3.10.egg-info
+[1.296s] running install_scripts
+[1.310s] writing list of installed files to '/home/sim_user/ros2_excavator/build/excavator_model/install.log'
+[1.321s] Invoked command in '/home/sim_user/ros2_excavator/src/excavator_model' returned '0': PYTHONPATH=/home/sim_user/ros2_excavator/build/excavator_model/prefix_override:/home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/excavator_model build --build-base /home/sim_user/ros2_excavator/build/excavator_model/build install --record /home/sim_user/ros2_excavator/build/excavator_model/install.log --single-version-externally-managed install_data

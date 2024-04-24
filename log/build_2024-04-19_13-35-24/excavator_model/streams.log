@@ -1,0 +1,30 @@
+[1.288s] Invoking command in '/home/sim_user/ros2_excavator/src/excavator_model': PYTHONPATH=/home/sim_user/ros2_excavator/build/excavator_model/prefix_override:/home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/excavator_model build --build-base /home/sim_user/ros2_excavator/build/excavator_model/build install --record /home/sim_user/ros2_excavator/build/excavator_model/install.log --single-version-externally-managed install_data
+[1.454s] running egg_info
+[1.455s] creating ../../build/excavator_model/excavator_model.egg-info
+[1.455s] writing ../../build/excavator_model/excavator_model.egg-info/PKG-INFO
+[1.455s] writing dependency_links to ../../build/excavator_model/excavator_model.egg-info/dependency_links.txt
+[1.455s] writing entry points to ../../build/excavator_model/excavator_model.egg-info/entry_points.txt
+[1.455s] writing requirements to ../../build/excavator_model/excavator_model.egg-info/requires.txt
+[1.455s] writing top-level names to ../../build/excavator_model/excavator_model.egg-info/top_level.txt
+[1.455s] writing manifest file '../../build/excavator_model/excavator_model.egg-info/SOURCES.txt'
+[1.455s] reading manifest file '../../build/excavator_model/excavator_model.egg-info/SOURCES.txt'
+[1.456s] writing manifest file '../../build/excavator_model/excavator_model.egg-info/SOURCES.txt'
+[1.456s] running build
+[1.456s] running build_py
+[1.456s] creating /home/sim_user/ros2_excavator/build/excavator_model/build
+[1.456s] creating /home/sim_user/ros2_excavator/build/excavator_model/build/lib
+[1.456s] creating /home/sim_user/ros2_excavator/build/excavator_model/build/lib/excavator_model
+[1.456s] copying excavator_model/__init__.py -> /home/sim_user/ros2_excavator/build/excavator_model/build/lib/excavator_model
+[1.456s] running install
+[1.456s] running install_lib
+[1.456s] creating /home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages/excavator_model
+[1.456s] copying /home/sim_user/ros2_excavator/build/excavator_model/build/lib/excavator_model/__init__.py -> /home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages/excavator_model
+[1.457s] byte-compiling /home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages/excavator_model/__init__.py to __init__.cpython-310.pyc
+[1.457s] running install_data
+[1.457s] copying resource/excavator_model -> /home/sim_user/ros2_excavator/install/excavator_model/share/ament_index/resource_index/packages
+[1.457s] copying package.xml -> /home/sim_user/ros2_excavator/install/excavator_model/share/excavator_model
+[1.457s] running install_egg_info
+[1.458s] Copying ../../build/excavator_model/excavator_model.egg-info to /home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages/excavator_model-0.0.0-py3.10.egg-info
+[1.458s] running install_scripts
+[1.472s] writing list of installed files to '/home/sim_user/ros2_excavator/build/excavator_model/install.log'
+[1.490s] Invoked command in '/home/sim_user/ros2_excavator/src/excavator_model' returned '0': PYTHONPATH=/home/sim_user/ros2_excavator/build/excavator_model/prefix_override:/home/sim_user/ros2_excavator/install/excavator_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/excavator_model build --build-base /home/sim_user/ros2_excavator/build/excavator_model/build install --record /home/sim_user/ros2_excavator/build/excavator_model/install.log --single-version-externally-managed install_data
