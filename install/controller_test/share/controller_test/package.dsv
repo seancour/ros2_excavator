@@ -1,6 +1,0 @@
-source;share/controller_test/hook/pythonpath.ps1
-source;share/controller_test/hook/pythonpath.dsv
-source;share/controller_test/hook/pythonpath.sh
-source;share/controller_test/hook/ament_prefix_path.ps1
-source;share/controller_test/hook/ament_prefix_path.dsv
-source;share/controller_test/hook/ament_prefix_path.sh

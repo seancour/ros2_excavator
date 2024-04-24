@@ -1,3 +1,0 @@
-[console_scripts]
-python_executable_name = pkg_name.python_executable_name:main
-
